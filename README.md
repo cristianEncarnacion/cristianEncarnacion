@@ -9,11 +9,12 @@ Soy Cristian Encarnacion, tengo 20 años y me considero un programador junior co
 
 <p align="center">
 
-- **HTML y CSS**: 80%
-- **JavaScript**: 80%
-- **Python**: 40%
-- **Java**: 60%
-- **React**: 50%
+- **HTML y CSS**
+- **JavaScript**
+- **Python**
+- **Java**
+- **React**
+- **Astro y Tailwind**
 
 </p>
 
@@ -37,6 +38,9 @@ Un To-Do List simple para ayudarte a organizar tus tareas diarias. Desarrollado 
 ### [MiniTrello](https://minitrello.netlify.app/)
 Un clon simplificado de Trello para gestionar proyectos y tareas. Desarrollado con React.
 
+### [Landing Page](https://static-astro-landing-page.netlify.app/)
+Un Landing Page, hecho con Astro, Tailwind y JavaScript
+
 <br>
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -57,6 +61,9 @@ Un clon simplificado de Trello para gestionar proyectos y tareas. Desarrollado c
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![React](https://img.shields.io/badge/React%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+   ![Astro](https://img.shields.io/badge/Astro%20-%23FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white)
+   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS%20-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
 
 <br>
 
