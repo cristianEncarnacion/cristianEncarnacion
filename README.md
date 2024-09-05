@@ -23,11 +23,12 @@ Soy Cristian Encarnacion, tengo 20 años y me considero un programador junior co
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Proyectos Destacados</b>
 <br>
 
-### [Tienda de Productos Random](https://tiendadeproductosrandom.netlify.app/)
-Un proyecto de tienda en línea donde puedes comprar productos de todo tipo. Desarrollado con HTML, CSS, y JavaScript.
 
 ### [Sistema de Facturación](https://billinsystem.netlify.app/)
 Sistema de facturación sencillo pero efectivo, desarrollado con HTML, CSS, JavaScript y React.
+
+### [Tienda de Productos Random](https://tiendadeproductosrandom.netlify.app/)
+Un proyecto de tienda en línea donde puedes comprar productos de todo tipo. Desarrollado con HTML, CSS, y JavaScript.
 
 ### [Aplicación del Clima](https://weathertoday-information.netlify.app/)
 Aplicación que muestra el clima actual en diferentes localidades, utilizando APIs para obtener información en tiempo real. Desarrollado con HTML, CSS, y JavaScript.
@@ -40,6 +41,10 @@ Un clon simplificado de Trello para gestionar proyectos y tareas. Desarrollado c
 
 ### [Landing Page](https://static-astro-landing-page.netlify.app/)
 Un Landing Page, hecho con Astro, Tailwind y JavaScript
+
+
+### [MIni Paint](https://drawminipaint.netlify.app/)
+Un Mini Paint usando Canvas, hecho con Html, css y JavaScript
 
 <br>
 
