@@ -5,16 +5,56 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Sobre Mí</b>
 <br>
-Soy Cristian Encarnacion, tengo 20 años y me considero un programador junior con pasión por la programación y, en especial, por JavaScript. Amo el desarrollo web y estoy siempre buscando aprender más y mejorar mis habilidades. Mis principales lenguajes y herramientas incluyen:
+Soy Cristian Encarnacion, tengo 20 años y me considero un programador junior con pasión por la programación y, en especial, por JavaScript. Amo el desarrollo web y estoy siempre buscando aprender más y mejorar mis habilidades.
+
+<br>
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 
 <p align="center">
+	
+- **Languages**:
 
-- **HTML y CSS**
-- **JavaScript**
-- **Python**
-- **Java**
-- **React**
-- **Astro y Tailwind**
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+    ![Java](https://img.shields.io/badge/Java-%23F7DF1E.svg?style=for-the-badge&logo=java&logoColor=black)
+    ![TypeScript](https://img.shields.io/badge/TypeScript-%230072B9.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+<br>   
+    
+- **Front-End Development**:
+
+   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![React](https://img.shields.io/badge/React%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+   ![Astro](https://img.shields.io/badge/Astro%20-%23FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white)
+   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS%20-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+<br>
+
+- **Back-End Development**:
+
+   ![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
+   ![Supabase](https://img.shields.io/badge/Supabase-%2300C2A2.svg?style=for-the-badge&logo=supabase&logoColor=white)
+   ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+
+<br>
+
+<br>
+
+- **Softwares and Tools**:
+
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<br>
+
+- **Extras**:
+
+    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
 </p>
 
@@ -22,7 +62,6 @@ Soy Cristian Encarnacion, tengo 20 años y me considero un programador junior co
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Proyectos Destacados</b>
 <br>
-
 
 ### [Sistema de Facturación](https://billinsystem.netlify.app/)
 Sistema de facturación sencillo pero efectivo, desarrollado con React y conectado a una base de datos.
@@ -36,72 +75,17 @@ Aplicación que muestra el clima actual en diferentes localidades, utilizando AP
 ### [Lista de Tareas](https://apuntatustareas.netlify.app/)
 Un To-Do List simple para ayudarte a organizar tus tareas diarias. Desarrollado con HTML, CSS, y JavaScript.
 
-### [Lista de Tareas](https://list-for-to-do.netlify.app//)
-Un To-Do List simple para ayudarte a organizar tus tareas diarias. Desarrollado con React y Typescript
-
+### [Lista de Tareas](https://list-for-to-do.netlify.app/)
+Un To-Do List simple para ayudarte a organizar tus tareas diarias. Desarrollado con React y Typescript.
 
 ### [MiniTrello](https://minitrello.netlify.app/)
 Un clon simplificado de Trello para gestionar proyectos y tareas. Desarrollado con React.
 
 ### [Landing Page](https://static-astro-landing-page.netlify.app/)
-Un Landing Page, hecho con Astro, Tailwind y JavaScript
+Un Landing Page, hecho con Astro, Tailwind y JavaScript.
 
-
-### [MIni Paint](https://drawminipaint.netlify.app/)
-Un Mini Paint usando Canvas, hecho con Html, css y JavaScript
-
-<br>
-
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-
-<p align="center">
-
-- **Languages**:
-
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![Java](https://img.shields.io/badge/Java-%23F7DF1E.svg?style=for-the-badge&logo=java&logoColor=black)
-
-<br>   
-    
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![React](https://img.shields.io/badge/React%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-   ![Astro](https://img.shields.io/badge/Astro%20-%23FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white)
-   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS%20-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-
-<br>
-
-- **Back-End Development**:
-
-   ![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
-   ![Supabase](https://img.shields.io/badge/Supabase-%2300C2A2.svg?style=for-the-badge&logo=supabase&logoColor=white)
-   ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-
-<br>
-
-    
-<br>
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-<br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-</p>
+### [Mini Paint](https://drawminipaint.netlify.app/)
+Un Mini Paint usando Canvas, hecho con HTML, CSS y JavaScript.
 
 <br>
 
@@ -118,7 +102,6 @@ Un Mini Paint usando Canvas, hecho con Html, css y JavaScript
   </a>
 
 </div>
-
 
 <br>
 
@@ -168,4 +151,3 @@ Un Mini Paint usando Canvas, hecho con Html, css y JavaScript
 </div>
 
 <br>
-
