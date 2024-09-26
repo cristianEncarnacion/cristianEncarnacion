@@ -36,6 +36,10 @@ Aplicación que muestra el clima actual en diferentes localidades, utilizando AP
 ### [Lista de Tareas](https://apuntatustareas.netlify.app/)
 Un To-Do List simple para ayudarte a organizar tus tareas diarias. Desarrollado con HTML, CSS, y JavaScript.
 
+### [Lista de Tareas](https://list-for-to-do.netlify.app//)
+Un To-Do List simple para ayudarte a organizar tus tareas diarias. Desarrollado con React y Typescript
+
+
 ### [MiniTrello](https://minitrello.netlify.app/)
 Un clon simplificado de Trello para gestionar proyectos y tareas. Desarrollado con React.
 
