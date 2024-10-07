@@ -35,9 +35,10 @@ Soy Cristian Encarnacion, tengo 20 años y me considero un programador junior co
 
 - **Back-End Development**:
 
-   ![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
-   ![Supabase](https://img.shields.io/badge/Supabase-%2300C2A2.svg?style=for-the-badge&logo=supabase&logoColor=white)
-   ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%2300C2A2.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 <br>
 
