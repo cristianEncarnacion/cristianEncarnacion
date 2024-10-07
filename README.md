@@ -70,7 +70,7 @@ Sistema de facturación sencillo pero efectivo, desarrollado con React y conecta
 ### [Aplicación del Clima](https://cristianweather.netlify.app/)
 Aplicación que muestra el clima actual en diferentes localidades, utilizando APIs para obtener información en tiempo real. Desarrollado con HTML, CSS, y JavaScript.
 
-### [Gestion de empleados](https://empleapro..netlify.app/)
+### [Gestion de empleados](https://empleapro.netlify.app/)
 Pagina web de gestion de empleados, con React y Node JS
 
 ### [Tienda de Productos Random](https://tiendadeproductosrandom.netlify.app/)
