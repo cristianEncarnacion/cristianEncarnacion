@@ -66,11 +66,15 @@ Soy Cristian Encarnacion, tengo 20 años y me considero un programador junior co
 ### [Sistema de Facturación](https://billinsystem.netlify.app/)
 Sistema de facturación sencillo pero efectivo, desarrollado con React y conectado a una base de datos.
 
-### [Tienda de Productos Random](https://tiendadeproductosrandom.netlify.app/)
-Un proyecto de tienda en línea donde puedes comprar productos de todo tipo. Desarrollado con HTML, CSS, y JavaScript.
 
 ### [Aplicación del Clima](https://cristianweather.netlify.app/)
 Aplicación que muestra el clima actual en diferentes localidades, utilizando APIs para obtener información en tiempo real. Desarrollado con HTML, CSS, y JavaScript.
+
+### [Gestion de empleados](https://empleapro..netlify.app/)
+Pagina web de gestion de empleados, con React y Node JS
+
+### [Tienda de Productos Random](https://tiendadeproductosrandom.netlify.app/)
+Un proyecto de tienda en línea donde puedes comprar productos de todo tipo. Desarrollado con HTML, CSS, y JavaScript.
 
 ### [Lista de Tareas](https://apuntatustareas.netlify.app/)
 Un To-Do List simple para ayudarte a organizar tus tareas diarias. Desarrollado con HTML, CSS, y JavaScript.
