@@ -77,14 +77,8 @@ Pagina web de gestion de empleados, con React y Node JS
 ### [Tienda de Productos Random](https://tiendadeproductosrandom.netlify.app/)
 Un proyecto de tienda en línea donde puedes comprar productos de todo tipo. Desarrollado con HTML, CSS, y JavaScript.
 
-### [Lista de Tareas](https://apuntatustareas.netlify.app/)
-Un To-Do List simple para ayudarte a organizar tus tareas diarias. Desarrollado con HTML, CSS, y JavaScript.
-
-### [Lista de Tareas](https://list-for-to-do.netlify.app/)
-Un To-Do List simple para ayudarte a organizar tus tareas diarias. Desarrollado con React y Typescript.
-
-### [MiniTrello](https://minitrello.netlify.app/)
-Un clon simplificado de Trello para gestionar proyectos y tareas. Desarrollado con React.
+### [TaskTrack](https://tasktrackdev.netlify.app/)
+Un proyecto de lista de tareas con calendario, prioridades y pomodoro que te ayuda a organizar tus tareas mejor.
 
 ### [Landing Page](https://static-astro-landing-page.netlify.app/)
 Un Landing Page, hecho con Astro, Tailwind y JavaScript.
