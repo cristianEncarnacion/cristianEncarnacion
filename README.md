@@ -64,7 +64,7 @@ Soy Cristian Encarnacion, tengo 20 años y me considero un programador junior co
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Proyectos Destacados</b>
 <br>
 
-### [Sistema de Facturación](https://billinsystem.netlify.app/)
+### [Sistema de Facturación](https://billingsystem-ladingpage.netlify.app/)
 Sistema de facturación sencillo pero efectivo, desarrollado con React y conectado a una base de datos.
 
 ### [TaskTrack](https://tasktrackdev.netlify.app/)
