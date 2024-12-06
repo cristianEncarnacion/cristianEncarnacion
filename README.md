@@ -70,6 +70,9 @@ Sistema de facturación sencillo pero efectivo, desarrollado con React y conecta
 ### [TaskTrack](https://tasktrackdev.netlify.app/)
 Un proyecto de lista de tareas con calendario, prioridades y pomodoro que te ayuda a organizar tus tareas mejor.
 
+### [FinanzApp](https://finanzappdev.netlify.app/)
+Un proyecto para nuestras finanzas
+
 ### [RoadWeb](https://roadweb.netlify.app/)
 Pagina web educativa para personas que quisieran convertirse en desarrolladores web.
 
