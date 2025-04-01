@@ -16,9 +16,7 @@ Soy Cristian Encarnacion, tengo 20 años y me considero un programador junior co
 	
 - **Languages**:
 
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![Java](https://img.shields.io/badge/Java-%23F7DF1E.svg?style=for-the-badge&logo=java&logoColor=black)
     ![TypeScript](https://img.shields.io/badge/TypeScript-%230072B9.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 <br>   
