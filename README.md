@@ -1,152 +1,180 @@
-<h1 align="center"><b>Hola, soy Cristian Manuel Encarnacion Fermin</b></h1>
-<br>
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Cristian%20Encarnacion&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descAlignY=58&descSize=20" />
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Sobre Mí</b>
-<br>
-Soy Cristian Encarnacion, tengo 20 años y me considero un programador junior con pasión por la programación y, en especial, por JavaScript. Amo el desarrollo web y estoy siempre buscando aprender más y mejorar mis habilidades.
+<a href="https://cristianencarnacion.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/cristian-encarnacion-19649a304/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:cencarnacioninf13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.instagram.com/cristian.mef/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-<br>
+<br><br>
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=40&lines=Building+scalable+backends+with+Java+%2B+Spring+Boot;Architecting+APIs+with+Quarkus+%26+Docker;Crafting+modern+UIs+with+React+%26+React+Native;Shipping+SaaS+products+for+the+Dominican+market" alt="Typing SVG" />
+</a>
 
-<p align="center">
-	
-- **Languages**:
-
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![TypeScript](https://img.shields.io/badge/TypeScript-%230072B9.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-<br>   
-    
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![React](https://img.shields.io/badge/React%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-   ![Astro](https://img.shields.io/badge/Astro%20-%23FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white)
-   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS%20-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+</div>
 
 <br>
 
-- **Back-End Development**:
+## 🧠 Sobre mí
 
-![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-%2300C2A2.svg?style=for-the-badge&logo=supabase&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+Soy **Ingeniero de Software Full Stack** 🇩🇴, enfocado en construir **backends robustos y escalables con Java/Spring Boot y Quarkus**, e interfaces modernas con **React, React Native y TypeScript**.
 
-<br>
+```javascript
+const cristian = {
+  role: "Full Stack Software Engineer",
+  location: "República Dominicana 🇩🇴",
+  backend: ["Java 21", "Spring Boot 3", "Quarkus", "REST APIs", "JPA / Hibernate"],
+  frontend: ["React", "React Native (Expo)", "TypeScript", "Astro", "Tailwind CSS"],
+  devops: ["Docker", "PostgreSQL", "CI/CD - GitHub Actions"],
+  currentlyBuilding: "SaaS products para el mercado dominicano 🚀"
+};
+```
 
-<br>
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-</p>
+- 🏗️ Construyendo productos propios: plataformas SaaS de gestión (citas, salud, finanzas) para negocios dominicanos.
+- 🔧 Backend orientado a APIs limpias, escalables y bien documentadas.
+- 📱 Apps móviles multiplataforma con React Native / Expo.
+- 🎯 Buscando oportunidades remotas como **Backend / Full Stack Developer**.
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Proyectos Destacados</b>
-<br>
-
-### [Sistema de Facturación](https://billingsystem-ladingpage.netlify.app/)
-Sistema de facturación sencillo pero efectivo, desarrollado con React y conectado a una base de datos.
-
-### [TaskTrack](https://tasktrackdev.netlify.app/)
-Un proyecto de lista de tareas con calendario, prioridades y pomodoro que te ayuda a organizar tus tareas mejor.
-
-### [FinanzApp](https://finanzappdev.netlify.app/)
-Un proyecto para nuestras finanzas
-
-### [RoadWeb](https://roadweb.netlify.app/)
-Pagina web educativa para personas que quisieran convertirse en desarrolladores web.
-
-### [Aplicación del Clima](https://cristianweather.netlify.app/)
-Aplicación que muestra el clima actual en diferentes localidades, utilizando APIs para obtener información en tiempo real. Desarrollado con HTML, CSS, y JavaScript.
-
-### [Tienda de Productos Random](https://tiendadeproductosrandom.netlify.app/)
-Un proyecto de tienda en línea donde puedes comprar productos de todo tipo. Desarrollado con HTML, CSS, y JavaScript.
-
-### [Landing Page](https://static-astro-landing-page.netlify.app/)
-Un Landing Page, hecho con Astro, Tailwind y JavaScript.
-
-### [Mini Paint](https://drawminipaint.netlify.app/)
-Un Mini Paint usando Canvas, hecho con HTML, CSS y JavaScript.
-
-<br>
-
-## <b>Estadísticas de GitHub</b>
+## ⚙️ Tech Stack
 
 <div align="center">
-  
-  <a href="https://github.com/cristianEncarnacion">
-    <img src="https://github-readme-stats.vercel.app/api?username=cristianEncarnacion&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Estadísticas de GitHub de Cristian"/>
-  </a>
-  
-  <a href="https://github.com/cristianEncarnacion">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cristianEncarnacion&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Lenguajes más usados"/>
-  </a>
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,ts,js,tailwind,docker,postgres,mysql,git,github,vscode,figma,astro&theme=dark" />
 
 </div>
 
 <br>
 
-## <b>¡Conéctate conmigo!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<table align="center">
+<tr>
+<td valign="top" width="33%">
+
+**Backend**
+- ☕ Java 21
+- 🍃 Spring Boot 3.x
+- ⚡ Quarkus
+- 🔗 REST APIs / JPA
+
+</td>
+<td valign="top" width="33%">
+
+**Frontend & Mobile**
+- ⚛️ React / TypeScript
+- 📱 React Native (Expo)
+- 🪐 Astro
+- 🎨 Tailwind CSS
+
+</td>
+<td valign="top" width="33%">
+
+**DevOps & Data**
+- 🐳 Docker
+- 🐘 PostgreSQL
+- 🐬 MySQL / Supabase
+- 🤖 GitHub Actions
+
+</td>
+</tr>
+</table>
+
 <br>
-<div align='left'>
 
-<ul>
+## 🚀 Proyectos Destacados
 
-<li>
-<a href="https://www.linkedin.com/in/cristian-encarnacion-19649a304/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Cristian%20Encarnacion-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 💼 [Sistema de Facturación](https://billingsystem-ladingpage.netlify.app/)
+Sistema de facturación full stack desarrollado con **React** y conectado a una base de datos relacional.
+
+</td>
+<td width="50%" valign="top">
+
+### ✅ [TaskTrack](https://tasktrackdev.netlify.app/)
+Gestor de tareas con calendario, prioridades y temporizador **pomodoro** integrado.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 [FinanzApp](https://finanzappdev.netlify.app/)
+Plataforma de control de finanzas personales, integrada con **Supabase**.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌦️ [Weather App](https://cristianweather.netlify.app/)
+Consulta del clima en tiempo real mediante consumo de APIs externas.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 [RoadWeb](https://roadweb.netlify.app/)
+Plataforma educativa para futuros desarrolladores web.
+
+</td>
+<td width="50%" valign="top">
+
+### 🪐 [Landing Page Astro](https://static-astro-landing-page.netlify.app/)
+Landing page de alto rendimiento construida con **Astro + Tailwind**.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [Tienda Random](https://tiendadeproductosrandom.netlify.app/)
+Tienda en línea con catálogo de productos, desarrollada con HTML, CSS y JavaScript.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 [Mini Paint](https://drawminipaint.netlify.app/)
+Editor de dibujo interactivo construido con Canvas, HTML, CSS y JavaScript.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/cristianEncarnacion?tab=repositories">
+<img src="https://img.shields.io/badge/Ver%20todos%20mis%20repositorios-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-</li>
 
-<br>
-
-<li>
-<a href="https://www.instagram.com/cristian.mef/" target="_blank">
-<img src="https://img.shields.io/badge/instagram:  Cristian%20Encarnacion-%2300acee.svg?color=E4405F&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://www.youtube.com/@cristianencarnacion9314" target="_blank">
-<img src="https://img.shields.io/badge/youtube:  Cristian%20Encarnacion-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt=youtube style="margin-bottom: 5px;" />
-</a>
-</li>
-<br>
-<li>
-<a href="mailto:cencarnacioninf13@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  cencarnacioninf13-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
 </div>
 
 <br>
 
-<div align='center'>
+## 📊 GitHub Stats
 
-## <b>Cristian Encarnacion ✨</b>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=cristianEncarnacion&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianEncarnacion&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cristianEncarnacion&theme=tokyonight&hide_border=true" width="60%" />
 
 </div>
 
 <br>
+
+<div align="center">
+
+### 💬 Hablemos
+
+Abierto a oportunidades remotas, colaboraciones y proyectos freelance en **Java / Spring Boot / React / React Native**.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
+
+</div>
