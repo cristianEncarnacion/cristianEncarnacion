@@ -4,6 +4,7 @@
 
 <a href="https://cristianencarnacion.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/cristian-encarnacion/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/cristianencdev" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="mailto:cencarnacioninf13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/cristianEncarnacion/ferroreport" target="_blank"><img src="https://img.shields.io/badge/ferroreport-Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white" /></a>
 <a href="https://www.npmjs.com/package/@pagosrd/azul" target="_blank"><img src="https://img.shields.io/badge/npm-@pagosrd/azul-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
